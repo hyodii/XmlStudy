@@ -1,0 +1,22 @@
+/*===================================================
+	XmlDomTest04.java
+	- 콘솔 기반 자바 프로그램
+	- XML DOM 활용 → 로컬 (local) XML 읽어내기
+	  (rss.xml)
+===================================================*/
+
+package com.test;
+
+public class XmlDomTest04
+{
+	public static void main(String[] args)
+	{
+		try
+		{
+			
+		} catch (Exception e)
+		{
+			System.out.println(e.toString());
+		}
+	}
+}

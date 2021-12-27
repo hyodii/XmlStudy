@@ -1,0 +1,21 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>기상청 육상 중기 예보(Weather.jsp)</title>
+<link rel="stylesheet" type="text/css" >
+
+</head>
+<body>
+
+<div class="container">
+
+	<h2>
+		기상 정보 <small>Bootstrap</small>
+	</h2>
+	
+</div>
+
+</body>
+</html>

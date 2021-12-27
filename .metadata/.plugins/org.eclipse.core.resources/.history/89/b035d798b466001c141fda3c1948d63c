@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>XmlApp02.html</title>
+<style type="text/css">
+	table, th, td
+	{
+		border: 1px solid gray;
+		border-collapse: collapse;
+	}
+</style>
+<script type="text/javascript">
+	function loadDoc()
+	{
+		var xmlHttp = new XmlHttpRequest();
+		xmlHttp.onreadystatechange = function()
+		{
+			if(this.status==200 && this.readyState==4)
+			{
+				displayData(xmlHttp);
+			}
+		};
+		
+		xmlHttp.open("GET", "koreanMajorCities.xml", "true");
+		xmlHttp.send("");
+		
+	}
+	
+	function displayData(xmlHttp)
+	{
+		var xmlObj, cityList, result, idx;
+		xmlObj = xmlHttp.responseXML;
+		result = "<table><tr><th>도시 이름 </th><th>행정구역</th></tr>";
+		cityList = xmlObj.getElementByTagName("city");
+		for(idx=0; idx<cityList.length, idx++)
+		{
+			result = "<tr><td>"
+					+ cityList[idx].getElementsByTagName("name")[0].childNodes[0].nodeValue
+					+ "</td><td>"
+					+ cityList[idx].getElementsByTagName("class")[0].childNodes[0].nodeValue
+					++ "</td><tr>"
+		}
+		
+		result += "</table>";
+		document.getElementById("text").innerHTML = result;
+	}
+	
+	
+</script>
+</head>
+<body>
+
+<div>
+	<h1>HTML 을 활용하여 XML 로부터 데이터 분리(관찰)</h1>
+</div>
+
+<div>
+	<button type="button" onclick="loadDoc()"> XML 데이터 불러오기~!!! </button>
+	<p id="text">
+</div>
+
+</body>
+</html>

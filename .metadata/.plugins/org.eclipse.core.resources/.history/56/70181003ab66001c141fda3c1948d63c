@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rootElement>
+	<!-- 선언부와 루트만 존재하는 XML 문서 작성 -->
+	<!-- 루트 엘리먼트(rootElement)도 사용자 결정 -->
+	<!-- XML 은 프로그램이 아니고, 데이터를 구조적으로 표현하는 문서일 뿐이다. -->
+</rootElement>

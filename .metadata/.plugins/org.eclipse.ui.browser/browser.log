@@ -1,0 +1,17 @@
+
+12월 27, 2021 10:22:14.32 NEW SESSION
+12월 27, 2021 10:22:14.32 [27888:29672:1227/102214.321:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 10:22:14.32 [27888:29672:1227/102214.321:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 10:22:14.32 [27888:29672:1227/102214.321:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 10:22:14.32 [27888:29672:1227/102214.325:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 10:22:14.35 [27888:12468:1227/102214.357:ERROR:device_event_log_impl.cc(214)] [10:22:14.357] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+
+12월 27, 2021 10:43:48.63 NEW SESSION
+12월 27, 2021 10:43:48.63 [4688:28508:1227/104348.634:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+12월 27, 2021 10:43:48.63 [4688:28508:1227/104348.634:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+12월 27, 2021 10:43:48.63 [4688:28508:1227/104348.634:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+12월 27, 2021 10:43:48.63 [4688:28508:1227/104348.637:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+12월 27, 2021 10:43:48.65 [4688:25668:1227/104348.651:ERROR:device_event_log_impl.cc(214)] [10:43:48.651] USB: usb_device_handle_win.cc:1048 Failed to read descriptor from node connection: 시스템에 부착된 장치가 작동하지 않습니다. (0x1F)
+12월 27, 2021 10:55:41.69 [4688:25668:1227/105541.695:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2021 10:55:45.28 [4688:25668:1227/105545.288:ERROR:interface_endpoint_client.cc(658)] Message 1 rejected by interface blink.mojom.WidgetHost
+12월 27, 2021 14:18:01.49 [4688:25668:1227/141801.487:ERROR:interface_endpoint_client.cc(658)] Message 0 rejected by interface blink.mojom.WidgetHost

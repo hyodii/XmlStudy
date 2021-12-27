@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- 아래 DTO 내용을 토대로 XML 문서를 완성한다. -->
+<!-- 데이터는 자신이 좋아하는 가수의 곡 정보를 3곡 이상 등록한다. -->
+
+<!DOCTYPE compactDiscs
+[
+<!ELEMENT compactDiscs (compactDisc+)>
+<!ELEMENT compactDisc (artist, title, tracks, price)>
+<!ELEMENT artist (#PCDATA)>
+<!ATTLIST artist type (individual | band) #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ATTLIST title numberOfTracks CDATA #REQUIRED>
+<!ELEMENT tracks (track+)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT track (#PCDATA)>
+]>
+
+<compactDiscs>
+	<compactDisc>
+		<artist tpye="individual">아이유</artist>
+		<title numberOftracks="1">에잇</title>
+		<tracks>1</tracks>
+		<tracks>2</tracks>
+		<price>15,000</price>
+	</compactDisc>
+</compactDiscs>

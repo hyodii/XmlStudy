@@ -1,0 +1,5247 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2021년 12월 27일 (월)요일 06:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>서울,경기도 육상 중기예보 - 2021년 12월 27일 (월)요일 06:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_02.jsp</guid>
+<description>
+	<header>
+		<title>서울,경기도 육상중기예보</title>
+		<tm>202112270600</tm>
+		<wf><![CDATA[○ (강수) 1월 2일(일) 오전에는 눈이 내리겠습니다.<br />○ (기온) 아침 기온은 -14~-2도, 낮 기온은 -5~4도로 어제(26일, 아침최저기온 -19~-13도, 낮최고기온 -8~-5도)보다 높겠습니다.<br />          특히, 12월 31일(금)~1월 1일(토)은 평년(아침 기온 -11~-4)보다 4~5도 가량 낮고 바람도 강하게 불어 매우 춥겠습니다.<br />○ (해상) 서해중부해상의 물결은 30일(목) 오후~31일(금) 오전은 1.0~3.0m로 높게 일겠고, 바람이 매우 강하게 불겠습니다. 그 밖의 날은 1.0~2.5m로 일겠습니다.<br />○ (주말전망) 1월 1일(토)은 구름많겠고, 2일은 오전에 구름많고 눈이 내리다가 오후에는 맑아지겠습니다. 아침최저기온은 -14~-8도, 낮최고기온은 -1~3도의 분포를 보이겠습니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>서울</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>인천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-5</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-5</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>수원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>파주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-14</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-14</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-14</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-14</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>이천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>평택</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>백령도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>1</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>1</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>0</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>0</tmn>
+					<tmx>5</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>과천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광명</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-1</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>강화</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>김포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>시흥</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>부천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-1</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-1</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의정부</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-13</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-13</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>고양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-15</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-15</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-15</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-15</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>동두천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>연천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-16</tmn>
+					<tmx>-6</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-16</tmn>
+					<tmx>-6</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-16</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-16</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>포천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-14</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-14</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-14</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-14</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>가평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-15</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-15</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-15</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-15</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-8</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>구리</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>남양주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-13</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>양평</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>하남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-2</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>오산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>화성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>성남</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-11</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>의왕</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-5</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-5</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-3</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-3</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>군포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-2</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-3</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>안성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>4</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>용인</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-8</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-3</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-10</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>광주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>-2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-12</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-5</tmn>
+					<tmx>1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>0</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>여주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-30 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-7</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2021-12-31 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-12</tmn>
+					<tmx>-4</tmx>
+					<reliability></reliability>
+					<rnSt>0</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-11</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 00:00</tmEf>
+					<wf>구름많고 눈</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-02 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-5</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2022-01-03 12:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-9</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>10</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-04 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-6</tmn>
+					<tmx>3</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-05 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>-4</tmn>
+					<tmx>2</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2022-01-06 00:00</tmEf>
+					<wf>맑음</wf>
+					<tmn>-10</tmn>
+					<tmx>-1</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
